@@ -5,13 +5,13 @@
     "delimiter": ",",
     "apply-rules": false,
     "specifics": [],
-    "import-account": 1,
+    "import-account": 16,
     "column-count": 4,
     "column-roles": [
         "date-transaction",
         "description",
-        "amount_credit",
-        "amount_debit"
+        "amount_debit",
+        "amount_credit"
     ],
     "column-do-mapping": [
         false,
